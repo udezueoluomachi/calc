@@ -1,0 +1,7 @@
+{
+  "name": "Calculator",
+  "displayName": "Calculator",
+  "android": {
+  "icon": "./android/app/src/main/res"
+  }
+}
